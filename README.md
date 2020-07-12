@@ -23,4 +23,4 @@ This website was originally created by ???.
 Website is currently maintained by NIWA's webteam:
 * SuperHamster ([KevinPayravi](https://github.com/KevinPayravi))
 * Archaic
-* Tacopill
+* [Tacopill](https://github.com/tacopill)
